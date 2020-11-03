@@ -1,4 +1,5 @@
-# task-manager
+# TaskManagerFrontEnd
+Task Manager FrontEnd using vuejs
 
 ## Project setup
 ```
